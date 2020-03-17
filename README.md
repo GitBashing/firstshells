@@ -1,0 +1,2 @@
+# firstshells
+learning Bash
